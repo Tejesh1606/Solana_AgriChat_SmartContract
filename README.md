@@ -32,6 +32,9 @@ Solana Smart Contract to run AgriChat
 - `anchor build` (again)
 - `anchor deploy`
 
+### Output:
+![image](https://github.com/Tejesh1606/Solana_AgriChat_SmartContract/assets/96534599/6cb91d0a-5488-496e-8ba9-ea2779f813cb)
+
 ### Note:
 - The smart contract does not have update and delete function for immutability.
 
